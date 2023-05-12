@@ -3,7 +3,7 @@ from instaloader import Instaloader, Post
 import requests
 from io import BytesIO
 
-bot = telebot.TeleBot('6276116152:AAFgM0a4Dd-pVeTA_3X8zDq7YP3BJjzTnQc')
+bot = telebot.TeleBot('Seu Token aqui')
 loader = Instaloader()
 
 
